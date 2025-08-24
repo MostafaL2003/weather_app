@@ -17,14 +17,14 @@ class MyButton extends StatelessWidget {
           gradient: const LinearGradient(
             colors: [
               Color.fromARGB(0, 255, 255, 255),
-              Color.fromARGB(255, 0, 255, 255),
+              Color.fromARGB(255, 11, 15, 62),
             ],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
           boxShadow: [
             BoxShadow(
-              color: Colors.blue.withOpacity(0.3),
+              color: const Color.fromARGB(255, 21, 94, 154).withOpacity(0.3),
               blurRadius: 12,
               offset: const Offset(0, 6),
             ),

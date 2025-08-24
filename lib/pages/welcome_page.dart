@@ -13,7 +13,10 @@ class WelcomePage extends StatelessWidget {
         gradient: LinearGradient(
           begin: Alignment.topCenter,
           end: Alignment.bottomCenter,
-          colors: [Color(0xFF89f7fe), Color.fromARGB(255, 232, 130, 241)],
+          colors: [
+            Color.fromARGB(255, 18, 79, 129),
+            Color.fromARGB(255, 7, 30, 50),
+          ],
         ),
       ),
       child: Scaffold(
@@ -31,9 +34,9 @@ class WelcomePage extends StatelessWidget {
                         BoxShadow(
                           color: const Color.fromARGB(
                             255,
-                            245,
-                            173,
-                            231,
+                            23,
+                            28,
+                            69,
                           ).withOpacity(0.5),
                           blurRadius: 30,
                           spreadRadius: 5,
