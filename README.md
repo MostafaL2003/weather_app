@@ -6,7 +6,7 @@ A beautiful and intuitive Flutter weather application that provides real-time we
 
 | Welcome Screen | Home Screen |
 |----------------|-------------|
-| ![Welcome Screen](screenshots/welcome_screen.png) | ![Home Screen](screenshots/home_screen.png) |
+| ![Welcome Screen](screenshots/WelcomeScreen.png) | ![Home Screen](screenshots/HomePage.png) |
 
 ## ✨ Features
 
